@@ -1,5 +1,6 @@
 package com.taotao.mapper;
 
+import com.taotao.domain.TbItemParamItem;
 import com.taotao.domain.TbItemParamItemExample;
 import org.apache.ibatis.annotations.Param;
 

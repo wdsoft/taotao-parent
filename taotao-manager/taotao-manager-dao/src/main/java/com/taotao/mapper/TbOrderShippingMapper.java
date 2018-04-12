@@ -1,5 +1,6 @@
 package com.taotao.mapper;
 
+import com.taotao.domain.TbOrderShipping;
 import com.taotao.domain.TbOrderShippingExample;
 import org.apache.ibatis.annotations.Param;
 
